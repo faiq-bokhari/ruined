@@ -1,3 +1,2 @@
 # ruined
-3GB3 Video Game Project
-Megaman Battle Network x Slay the Spire
+Video Game Project Inspired By yMegaman Battle Network x Slay the Spire
