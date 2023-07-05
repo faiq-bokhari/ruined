@@ -1,2 +1,2 @@
-# ruined
-Video Game Project Inspired By yMegaman Battle Network x Slay the Spire
+# Ruined
+Video Game Project Inspired By Megaman Battle Network x Slay the Spire
